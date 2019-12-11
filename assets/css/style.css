@@ -44,3 +44,9 @@ h1{
     color: #0b0c10;
     border-color: #0b0c10;
 }
+
+@media screen and (max-width: 420px) {
+ body{
+     margin-left: 1%;
+ }
+}
