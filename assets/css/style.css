@@ -20,19 +20,27 @@ h1{
   }
 
   .nav-pills 
-  .nav-link 
-  .active{
-      background-color: #0b0c10;
+  .nav-link.active{
+      background-color:#c5c6c8 ;
+      color: #0b0c10;
+      text-align: center;
   }
 
-  #navcolor{
-    background: #0b0c10;
-  }
+    .nav-link{ 
+        color: #66fcf0;
+        text-align: center;
 
-  .navcolor{
-      background-color: #0b0c10;
-  }
-
+    }
   .portfoliopg{
       color: #0b0c10;
   }
+
+  .card{
+      background-color:#c5c6c8 ;
+  }
+
+  .btn-primary{
+    background-color: #c5c6c8;
+    color: #0b0c10;
+    border-color: #0b0c10;
+}
